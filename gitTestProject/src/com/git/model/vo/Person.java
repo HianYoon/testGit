@@ -5,4 +5,5 @@ public class Person {
 	private int age;
 	private int data;
 	private String powerrrr;
+	private String yes;
 }
